@@ -1,0 +1,800 @@
+
+Standard  
+  Decl:  standard.ads    7:9
+  Ref:  standard.ads  8:13    222:5    222:13
+Boolean  
+  Decl:  standard.ads    10:9
+  Ref:  standard.ads  10:33    11:8    12:8
+False  
+  Decl:  standard.ads    10:21
+  Ref:  standard.ads  12:21
+True  
+  Decl:  standard.ads    10:28
+  Ref:  standard.ads  12:33
+Integer  
+  Decl:  standard.ads    14:9
+  Ref:  standard.ads  15:8    17:24    17:43    18:24    18:43
+Natural  
+  Decl:  standard.ads    17:12
+Positive  
+  Decl:  standard.ads    18:12
+  Ref:  standard.ads  202:26    205:31    208:36
+Short_Short_Integer  
+  Decl:  standard.ads    20:9
+  Ref:  standard.ads  21:8
+Short_Integer  
+  Decl:  standard.ads    23:9
+  Ref:  standard.ads  24:8
+Long_Integer  
+  Decl:  standard.ads    26:9
+  Ref:  standard.ads  27:8
+Long_Long_Integer  
+  Decl:  standard.ads    29:9
+  Ref:  standard.ads  30:8
+Short_Float  
+  Decl:  standard.ads    32:9
+  Ref:  standard.ads  34:8
+Float  
+  Decl:  standard.ads    36:9
+  Ref:  standard.ads  38:8
+Long_Float  
+  Decl:  standard.ads    40:9
+  Ref:  standard.ads  42:8
+Long_Long_Float  
+  Decl:  standard.ads    44:9
+  Ref:  standard.ads  46:8
+Character  
+  Decl:  standard.ads    48:6
+  Ref:  standard.ads  99:12    100:8    104:31    114:30    114:43    115:30    115:43    116:30    116:43    117:30    117:43    118:30    118:43    119:30    119:43    120:30    120:43    121:30    121:43    122:30    122:43    123:30    123:43    124:30    124:43    125:30    125:43    126:30    126:43    127:30    127:43    128:30    128:43    129:30    129:43    130:30    130:43    131:30    131:43    132:30    132:43    133:30    133:43    134:30    134:43    135:30    135:43    136:30    136:43    137:30    137:43    138:30    138:43    139:30    139:43    140:30    140:43    141:30    141:43    142:30    142:43    143:30    143:43    144:30    144:43    145:30    145:43    146:30    146:43    149:29    150:29    151:29    152:29    153:29    154:29    155:29    156:29    157:29    158:29    159:29    160:29    161:29    162:29    163:29    164:29    165:29    166:29    167:29    168:29    169:29    173:23    174:23    175:23    176:23    177:23    178:23    179:23    180:23    181:23    182:23    183:23    184:23    185:23    186:23    187:23    188:23    189:23    190:23    191:23    192:23    193:23    194:23    195:23    196:23    197:23    198:23    202:48
+nul  
+  Decl:  standard.ads    49:11
+soh  
+  Decl:  standard.ads    49:17
+stx  
+  Decl:  standard.ads    49:23
+etx  
+  Decl:  standard.ads    49:29
+eot  
+  Decl:  standard.ads    49:38
+enq  
+  Decl:  standard.ads    49:44
+ack  
+  Decl:  standard.ads    49:50
+bel  
+  Decl:  standard.ads    49:56
+bs  
+  Decl:  standard.ads    50:11
+ht  
+  Decl:  standard.ads    50:17
+lf  
+  Decl:  standard.ads    50:23
+vt  
+  Decl:  standard.ads    50:29
+ff  
+  Decl:  standard.ads    50:38
+cr  
+  Decl:  standard.ads    50:44
+so  
+  Decl:  standard.ads    50:50
+si  
+  Decl:  standard.ads    50:56
+dle  
+  Decl:  standard.ads    52:11
+dc1  
+  Decl:  standard.ads    52:17
+dc2  
+  Decl:  standard.ads    52:23
+dc3  
+  Decl:  standard.ads    52:29
+dc4  
+  Decl:  standard.ads    52:38
+nak  
+  Decl:  standard.ads    52:44
+syn  
+  Decl:  standard.ads    52:50
+etb  
+  Decl:  standard.ads    52:56
+can  
+  Decl:  standard.ads    53:11
+em  
+  Decl:  standard.ads    53:17
+sub  
+  Decl:  standard.ads    53:23
+esc  
+  Decl:  standard.ads    53:29
+fs  
+  Decl:  standard.ads    53:38
+gs  
+  Decl:  standard.ads    53:44
+rs  
+  Decl:  standard.ads    53:50
+us  
+  Decl:  standard.ads    53:56
+' '  
+  Decl:  standard.ads    55:11
+  Ref:  standard.ads  149:42
+'!'  
+  Decl:  standard.ads    55:17
+  Ref:  standard.ads  150:42
+'"'  
+  Decl:  standard.ads    55:23
+  Ref:  standard.ads  151:42
+'#'  
+  Decl:  standard.ads    55:28
+  Ref:  standard.ads  152:42
+'$'  
+  Decl:  standard.ads    55:37
+  Ref:  standard.ads  153:42
+'%'  
+  Decl:  standard.ads    55:43
+  Ref:  standard.ads  154:42
+'&'  
+  Decl:  standard.ads    55:49
+  Ref:  standard.ads  155:42
+'''  
+  Decl:  standard.ads    55:55
+'('  
+  Decl:  standard.ads    56:11
+')'  
+  Decl:  standard.ads    56:17
+'*'  
+  Decl:  standard.ads    56:23
+'+'  
+  Decl:  standard.ads    56:29
+','  
+  Decl:  standard.ads    56:38
+'-'  
+  Decl:  standard.ads    56:44
+'.'  
+  Decl:  standard.ads    56:50
+'/'  
+  Decl:  standard.ads    56:56
+'0'  
+  Decl:  standard.ads    58:11
+'1'  
+  Decl:  standard.ads    58:17
+'2'  
+  Decl:  standard.ads    58:23
+'3'  
+  Decl:  standard.ads    58:29
+'4'  
+  Decl:  standard.ads    58:38
+'5'  
+  Decl:  standard.ads    58:44
+'6'  
+  Decl:  standard.ads    58:50
+'7'  
+  Decl:  standard.ads    58:56
+'8'  
+  Decl:  standard.ads    59:11
+'9'  
+  Decl:  standard.ads    59:17
+':'  
+  Decl:  standard.ads    59:23
+  Ref:  standard.ads  156:42
+';'  
+  Decl:  standard.ads    59:29
+  Ref:  standard.ads  157:42
+'<'  
+  Decl:  standard.ads    59:38
+'='  
+  Decl:  standard.ads    59:44
+'>'  
+  Decl:  standard.ads    59:50
+'?'  
+  Decl:  standard.ads    59:56
+  Ref:  standard.ads  158:42
+'@'  
+  Decl:  standard.ads    61:11
+  Ref:  standard.ads  159:42
+'A'  
+  Decl:  standard.ads    61:17
+'B'  
+  Decl:  standard.ads    61:23
+'C'  
+  Decl:  standard.ads    61:29
+'D'  
+  Decl:  standard.ads    61:38
+'E'  
+  Decl:  standard.ads    61:44
+'F'  
+  Decl:  standard.ads    61:50
+'G'  
+  Decl:  standard.ads    61:56
+'H'  
+  Decl:  standard.ads    62:11
+'I'  
+  Decl:  standard.ads    62:17
+'J'  
+  Decl:  standard.ads    62:23
+'K'  
+  Decl:  standard.ads    62:29
+'L'  
+  Decl:  standard.ads    62:38
+'M'  
+  Decl:  standard.ads    62:44
+'N'  
+  Decl:  standard.ads    62:50
+'O'  
+  Decl:  standard.ads    62:56
+'P'  
+  Decl:  standard.ads    64:11
+'Q'  
+  Decl:  standard.ads    64:17
+'R'  
+  Decl:  standard.ads    64:23
+'S'  
+  Decl:  standard.ads    64:29
+'T'  
+  Decl:  standard.ads    64:38
+'U'  
+  Decl:  standard.ads    64:44
+'V'  
+  Decl:  standard.ads    64:50
+'W'  
+  Decl:  standard.ads    64:56
+'X'  
+  Decl:  standard.ads    65:11
+'Y'  
+  Decl:  standard.ads    65:17
+'Z'  
+  Decl:  standard.ads    65:23
+'['  
+  Decl:  standard.ads    65:29
+  Ref:  standard.ads  160:42
+'\'  
+  Decl:  standard.ads    65:38
+  Ref:  standard.ads  161:42
+']'  
+  Decl:  standard.ads    65:44
+  Ref:  standard.ads  162:42
+'^'  
+  Decl:  standard.ads    65:50
+  Ref:  standard.ads  163:42
+'_'  
+  Decl:  standard.ads    65:56
+  Ref:  standard.ads  164:42
+'`'  
+  Decl:  standard.ads    67:11
+  Ref:  standard.ads  165:42
+'a'  
+  Decl:  standard.ads    67:17
+  Ref:  standard.ads  173:36
+'b'  
+  Decl:  standard.ads    67:23
+  Ref:  standard.ads  174:36
+'c'  
+  Decl:  standard.ads    67:29
+  Ref:  standard.ads  175:36
+'d'  
+  Decl:  standard.ads    67:38
+  Ref:  standard.ads  176:36
+'e'  
+  Decl:  standard.ads    67:44
+  Ref:  standard.ads  177:36
+'f'  
+  Decl:  standard.ads    67:50
+  Ref:  standard.ads  178:36
+'g'  
+  Decl:  standard.ads    67:56
+  Ref:  standard.ads  179:36
+'h'  
+  Decl:  standard.ads    68:11
+  Ref:  standard.ads  180:36
+'i'  
+  Decl:  standard.ads    68:17
+  Ref:  standard.ads  181:36
+'j'  
+  Decl:  standard.ads    68:23
+  Ref:  standard.ads  182:36
+'k'  
+  Decl:  standard.ads    68:29
+  Ref:  standard.ads  183:36
+'l'  
+  Decl:  standard.ads    68:38
+  Ref:  standard.ads  184:36
+'m'  
+  Decl:  standard.ads    68:44
+  Ref:  standard.ads  185:36
+'n'  
+  Decl:  standard.ads    68:50
+  Ref:  standard.ads  186:36
+'o'  
+  Decl:  standard.ads    68:56
+  Ref:  standard.ads  187:36
+'p'  
+  Decl:  standard.ads    70:11
+  Ref:  standard.ads  188:36
+'q'  
+  Decl:  standard.ads    70:17
+  Ref:  standard.ads  189:36
+'r'  
+  Decl:  standard.ads    70:23
+  Ref:  standard.ads  190:36
+'s'  
+  Decl:  standard.ads    70:29
+  Ref:  standard.ads  191:36
+'t'  
+  Decl:  standard.ads    70:38
+  Ref:  standard.ads  192:36
+'u'  
+  Decl:  standard.ads    70:44
+  Ref:  standard.ads  193:36
+'v'  
+  Decl:  standard.ads    70:50
+  Ref:  standard.ads  194:36
+'w'  
+  Decl:  standard.ads    70:56
+  Ref:  standard.ads  195:36
+'x'  
+  Decl:  standard.ads    71:11
+  Ref:  standard.ads  196:36
+'y'  
+  Decl:  standard.ads    71:17
+  Ref:  standard.ads  197:36
+'z'  
+  Decl:  standard.ads    71:23
+  Ref:  standard.ads  198:36
+'{'  
+  Decl:  standard.ads    71:29
+  Ref:  standard.ads  166:42
+'|'  
+  Decl:  standard.ads    71:38
+  Ref:  standard.ads  167:42
+'}'  
+  Decl:  standard.ads    71:44
+  Ref:  standard.ads  168:42
+'~'  
+  Decl:  standard.ads    71:50
+  Ref:  standard.ads  169:42
+del  
+  Decl:  standard.ads    71:56
+reserved_128  
+  Decl:  standard.ads    73:11
+reserved_129  
+  Decl:  standard.ads    73:29
+bph  
+  Decl:  standard.ads    73:44
+nbh  
+  Decl:  standard.ads    73:50
+reserved_132  
+  Decl:  standard.ads    73:55
+nel  
+  Decl:  standard.ads    73:73
+ssa  
+  Decl:  standard.ads    73:82
+esa  
+  Decl:  standard.ads    73:88
+hts  
+  Decl:  standard.ads    75:11
+htj  
+  Decl:  standard.ads    75:17
+vts  
+  Decl:  standard.ads    75:23
+pld  
+  Decl:  standard.ads    75:29
+plu  
+  Decl:  standard.ads    75:38
+ri  
+  Decl:  standard.ads    75:44
+ss2  
+  Decl:  standard.ads    75:50
+ss3  
+  Decl:  standard.ads    75:56
+dcs  
+  Decl:  standard.ads    77:11
+pu1  
+  Decl:  standard.ads    77:17
+pu2  
+  Decl:  standard.ads    77:23
+sts  
+  Decl:  standard.ads    77:29
+cch  
+  Decl:  standard.ads    77:38
+mw  
+  Decl:  standard.ads    77:44
+spa  
+  Decl:  standard.ads    77:50
+epa  
+  Decl:  standard.ads    77:56
+sos  
+  Decl:  standard.ads    79:11
+reserved_153  
+  Decl:  standard.ads    79:16
+sci  
+  Decl:  standard.ads    79:30
+csi  
+  Decl:  standard.ads    79:35
+st  
+  Decl:  standard.ads    79:40
+osc  
+  Decl:  standard.ads    79:46
+pm  
+  Decl:  standard.ads    79:52
+apc  
+  Decl:  standard.ads    79:58
+' '  
+  Decl:  standard.ads    80:11
+'¡'  
+  Decl:  standard.ads    80:20
+'¢'  
+  Decl:  standard.ads    80:27
+'£'  
+  Decl:  standard.ads    80:35
+'¤'  
+  Decl:  standard.ads    80:45
+'¥'  
+  Decl:  standard.ads    80:52
+'¦'  
+  Decl:  standard.ads    80:60
+'§'  
+  Decl:  standard.ads    80:67
+'¨'  
+  Decl:  standard.ads    81:7
+'©'  
+  Decl:  standard.ads    81:16
+'ª'  
+  Decl:  standard.ads    81:23
+'«'  
+  Decl:  standard.ads    81:31
+'¬'  
+  Decl:  standard.ads    81:41
+'­'  
+  Decl:  standard.ads    81:48
+'®'  
+  Decl:  standard.ads    81:56
+'¯'  
+  Decl:  standard.ads    81:63
+'°'  
+  Decl:  standard.ads    83:7
+'±'  
+  Decl:  standard.ads    83:16
+'²'  
+  Decl:  standard.ads    83:23
+'³'  
+  Decl:  standard.ads    83:31
+'´'  
+  Decl:  standard.ads    83:41
+'µ'  
+  Decl:  standard.ads    83:48
+'¶'  
+  Decl:  standard.ads    83:56
+'·'  
+  Decl:  standard.ads    83:63
+'¸'  
+  Decl:  standard.ads    84:7
+'¹'  
+  Decl:  standard.ads    84:16
+'º'  
+  Decl:  standard.ads    84:23
+'»'  
+  Decl:  standard.ads    84:31
+'¼'  
+  Decl:  standard.ads    84:41
+'½'  
+  Decl:  standard.ads    84:48
+'¾'  
+  Decl:  standard.ads    84:56
+'¿'  
+  Decl:  standard.ads    84:63
+'À'  
+  Decl:  standard.ads    86:7
+'Á'  
+  Decl:  standard.ads    86:16
+'Â'  
+  Decl:  standard.ads    86:23
+'Ã'  
+  Decl:  standard.ads    86:31
+'Ä'  
+  Decl:  standard.ads    86:41
+'Å'  
+  Decl:  standard.ads    86:48
+'Æ'  
+  Decl:  standard.ads    86:56
+'Ç'  
+  Decl:  standard.ads    86:63
+'È'  
+  Decl:  standard.ads    87:7
+'É'  
+  Decl:  standard.ads    87:16
+'Ê'  
+  Decl:  standard.ads    87:23
+'Ë'  
+  Decl:  standard.ads    87:31
+'Ì'  
+  Decl:  standard.ads    87:41
+'Í'  
+  Decl:  standard.ads    87:48
+'Î'  
+  Decl:  standard.ads    87:56
+'Ï'  
+  Decl:  standard.ads    87:63
+'Ð'  
+  Decl:  standard.ads    89:7
+'Ñ'  
+  Decl:  standard.ads    89:16
+'Ò'  
+  Decl:  standard.ads    89:23
+'Ó'  
+  Decl:  standard.ads    89:31
+'Ô'  
+  Decl:  standard.ads    89:41
+'Õ'  
+  Decl:  standard.ads    89:48
+'Ö'  
+  Decl:  standard.ads    89:56
+'×'  
+  Decl:  standard.ads    89:63
+'Ø'  
+  Decl:  standard.ads    90:7
+'Ù'  
+  Decl:  standard.ads    90:16
+'Ú'  
+  Decl:  standard.ads    90:23
+'Û'  
+  Decl:  standard.ads    90:31
+'Ü'  
+  Decl:  standard.ads    90:41
+'Ý'  
+  Decl:  standard.ads    90:48
+'Þ'  
+  Decl:  standard.ads    90:56
+'ß'  
+  Decl:  standard.ads    90:63
+'à'  
+  Decl:  standard.ads    92:7
+'á'  
+  Decl:  standard.ads    92:16
+'â'  
+  Decl:  standard.ads    92:23
+'ã'  
+  Decl:  standard.ads    92:31
+'ä'  
+  Decl:  standard.ads    92:41
+'å'  
+  Decl:  standard.ads    92:48
+'æ'  
+  Decl:  standard.ads    92:56
+'ç'  
+  Decl:  standard.ads    92:63
+'è'  
+  Decl:  standard.ads    93:7
+'é'  
+  Decl:  standard.ads    93:16
+'ê'  
+  Decl:  standard.ads    93:23
+'ë'  
+  Decl:  standard.ads    93:31
+'ì'  
+  Decl:  standard.ads    93:41
+'í'  
+  Decl:  standard.ads    93:48
+'î'  
+  Decl:  standard.ads    93:56
+'ï'  
+  Decl:  standard.ads    93:63
+'ð'  
+  Decl:  standard.ads    95:7
+'ñ'  
+  Decl:  standard.ads    95:16
+'ò'  
+  Decl:  standard.ads    95:23
+'ó'  
+  Decl:  standard.ads    95:31
+'ô'  
+  Decl:  standard.ads    95:41
+'õ'  
+  Decl:  standard.ads    95:48
+'ö'  
+  Decl:  standard.ads    95:56
+'÷'  
+  Decl:  standard.ads    95:63
+'ø'  
+  Decl:  standard.ads    96:7
+'ù'  
+  Decl:  standard.ads    96:16
+'ú'  
+  Decl:  standard.ads    96:23
+'û'  
+  Decl:  standard.ads    96:31
+'ü'  
+  Decl:  standard.ads    96:41
+'ý'  
+  Decl:  standard.ads    96:48
+'þ'  
+  Decl:  standard.ads    96:56
+'ÿ'  
+  Decl:  standard.ads    96:63
+Wide_Character  
+  Decl:  standard.ads    104:9
+  Ref:  standard.ads  105:8    107:36    205:53
+Wide_Wide_Character  
+  Decl:  standard.ads    107:9
+  Ref:  standard.ads  108:8    208:58
+ASCII  
+  Decl:  standard.ads    110:9
+  Ref:  standard.ads  200:8    200:13
+NUL_ascii  
+  Decl:  standard.ads    114:7
+SOH_ascii  
+  Decl:  standard.ads    115:7
+STX_ascii  
+  Decl:  standard.ads    116:7
+ETX_ascii  
+  Decl:  standard.ads    117:7
+EOT_ascii  
+  Decl:  standard.ads    118:7
+ENQ_ascii  
+  Decl:  standard.ads    119:7
+ACK_ascii  
+  Decl:  standard.ads    120:7
+BEL_ascii  
+  Decl:  standard.ads    121:7
+BS_ascii  
+  Decl:  standard.ads    122:7
+HT_ascii  
+  Decl:  standard.ads    123:7
+LF_ascii  
+  Decl:  standard.ads    124:7
+VT_ascii  
+  Decl:  standard.ads    125:7
+FF_ascii  
+  Decl:  standard.ads    126:7
+CR_ascii  
+  Decl:  standard.ads    127:7
+SO_ascii  
+  Decl:  standard.ads    128:7
+SI_ascii  
+  Decl:  standard.ads    129:7
+DLE_ascii  
+  Decl:  standard.ads    130:7
+DC1_ascii  
+  Decl:  standard.ads    131:7
+DC2_ascii  
+  Decl:  standard.ads    132:7
+DC3_ascii  
+  Decl:  standard.ads    133:7
+DC4_ascii  
+  Decl:  standard.ads    134:7
+NAK_ascii  
+  Decl:  standard.ads    135:7
+SYN_ascii  
+  Decl:  standard.ads    136:7
+ETB_ascii  
+  Decl:  standard.ads    137:7
+CAN_ascii  
+  Decl:  standard.ads    138:7
+EM_ascii  
+  Decl:  standard.ads    139:7
+SUB_ascii  
+  Decl:  standard.ads    140:7
+ESC_ascii  
+  Decl:  standard.ads    141:7
+FS_ascii  
+  Decl:  standard.ads    142:7
+GS_ascii  
+  Decl:  standard.ads    143:7
+RS_ascii  
+  Decl:  standard.ads    144:7
+US_ascii  
+  Decl:  standard.ads    145:7
+DEL_ascii  
+  Decl:  standard.ads    146:7
+Space  
+  Decl:  standard.ads    149:7
+Exclam  
+  Decl:  standard.ads    150:7
+Quotation  
+  Decl:  standard.ads    151:7
+Sharp  
+  Decl:  standard.ads    152:7
+Dollar  
+  Decl:  standard.ads    153:7
+Percent  
+  Decl:  standard.ads    154:7
+Ampersand  
+  Decl:  standard.ads    155:7
+Colon  
+  Decl:  standard.ads    156:7
+Semicolon  
+  Decl:  standard.ads    157:7
+Query  
+  Decl:  standard.ads    158:7
+At_Sign  
+  Decl:  standard.ads    159:7
+L_Bracket  
+  Decl:  standard.ads    160:7
+Back_Slash  
+  Decl:  standard.ads    161:7
+R_Bracket  
+  Decl:  standard.ads    162:7
+Circumflex  
+  Decl:  standard.ads    163:7
+Underline  
+  Decl:  standard.ads    164:7
+Grave  
+  Decl:  standard.ads    165:7
+L_Brace  
+  Decl:  standard.ads    166:7
+Bar  
+  Decl:  standard.ads    167:7
+R_Brace  
+  Decl:  standard.ads    168:7
+Tilde  
+  Decl:  standard.ads    169:7
+LC_A  
+  Decl:  standard.ads    173:7
+LC_B  
+  Decl:  standard.ads    174:7
+LC_C  
+  Decl:  standard.ads    175:7
+LC_D  
+  Decl:  standard.ads    176:7
+LC_E  
+  Decl:  standard.ads    177:7
+LC_F  
+  Decl:  standard.ads    178:7
+LC_G  
+  Decl:  standard.ads    179:7
+LC_H  
+  Decl:  standard.ads    180:7
+LC_I  
+  Decl:  standard.ads    181:7
+LC_J  
+  Decl:  standard.ads    182:7
+LC_K  
+  Decl:  standard.ads    183:7
+LC_L  
+  Decl:  standard.ads    184:7
+LC_M  
+  Decl:  standard.ads    185:7
+LC_N  
+  Decl:  standard.ads    186:7
+LC_O  
+  Decl:  standard.ads    187:7
+LC_P  
+  Decl:  standard.ads    188:7
+LC_Q  
+  Decl:  standard.ads    189:7
+LC_R  
+  Decl:  standard.ads    190:7
+LC_S  
+  Decl:  standard.ads    191:7
+LC_T  
+  Decl:  standard.ads    192:7
+LC_U  
+  Decl:  standard.ads    193:7
+LC_V  
+  Decl:  standard.ads    194:7
+LC_W  
+  Decl:  standard.ads    195:7
+LC_X  
+  Decl:  standard.ads    196:7
+LC_Y  
+  Decl:  standard.ads    197:7
+LC_Z  
+  Decl:  standard.ads    198:7
+String  
+  Decl:  standard.ads    202:9
+  Ref:  standard.ads  203:17
+Wide_String  
+  Decl:  standard.ads    205:9
+  Ref:  standard.ads  206:17
+Wide_Wide_String  
+  Decl:  standard.ads    208:9
+  Ref:  standard.ads  209:17
+Duration  
+  Decl:  standard.ads    211:9
+  Ref:  standard.ads  214:8
+Constraint_Error  
+  Decl:  standard.ads    216:4
+  Ref:  standard.ads  220:41
+Program_Error  
+  Decl:  standard.ads    217:4
+Storage_Error  
+  Decl:  standard.ads    218:4
+Tasking_Error  
+  Decl:  standard.ads    219:4
+Numeric_Error  
+  Decl:  standard.ads    220:4
+

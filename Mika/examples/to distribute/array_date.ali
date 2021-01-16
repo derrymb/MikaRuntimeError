@@ -1,0 +1,71 @@
+V "GNAT Lib v2010"
+A -gnat05
+P ZX
+R nnnnnnnvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnn
+
+U array_date%b		array_date.adb		56c4b897 OO PK IL
+W interfaces%s		interfac.ads		interfac.ali
+
+U array_date%s		array_date.ads		3cfdc0db EE NE OO PK IL
+
+D array_date.ads	20201121010554 3cfdc0db
+D array_date.adb	20201121010554 97dbb745
+D array_date-mika_test_point.adb  20201121010554 fde2cf09 array_date.mika_test_point
+D interfac.ads		20100603062246 a69cad5c
+D system.ads		20100603062800 0e6ea6c5
+X 1 array_date.ads
+1K9*array_date 17l5 17e15 2|1b14 86l5 86t15
+2E8*name_t 2e53 8r14 2|11r18 12r23 14r23
+2n19*mon{2E8}
+2n24*tue{2E8}
+2n29*wed{2E8}
+2n34*thu{2E8}
+2n39*fri{2E8}
+2n44*sat{2E8}
+2n49*sun{2E8}
+3I8*year_t<short_integer> 11r14 2|3r22
+4I8*day_t<short_short_integer> 9r13
+5E8*month_t 5e79 10r15 2|30r24
+5n20*jan{5E8} 2|18r24
+5n25*feb{5E8} 2|20r41 27r59
+5n30*mar{5E8} 2|25r26
+5n35*apr{5E8} 2|28r38
+5n40*may{5E8}
+5n45*jun{5E8} 2|28r58
+5n50*jul{5E8}
+5n55*aug{5E8}
+5n60*sep{5E8} 2|28r78
+5n65*oct{5E8}
+5n70*nov{5E8} 2|28r98
+5n75*dec{5E8} 2|16r20
+6R8*date_t 12e15 14r32 2|8r29 8r52 36r28 60r13
+8e7*name{2E8} 2|11r11 12m15 14m15 14r40
+9i7*day{4I8} 2|16r33 17m15 20r15 22m17 24m17 27r15 27r33 28r11 29m15 32m15
+. 32r27 48r12 48r21 50r12 50r21
+10e7*month{5E8} 2|16r12 18m15 20r33 25m17 27r51 28r30 28r50 28r70 28r90 30m15
+. 30r42 44r12 44r23 46r12 46r23
+11i7*year{3I8} 2|19m15 19r28 21r26 40r9 40r19 42r12 42r22
+13I8*index<short_short_integer> 14r22 2|59r11 63r22 63r34 63r45 63r61 64r35
+. 68r16 69r9 70r18 73r29
+14A8*list(6R8)<13I8> 15r37 2|58r35
+15U13*InsertionSort 15=27 2|58b11 80l5 80t18
+15a27 L{14A8} 2|58b25 64r15 64r33 66r16 69m7 69r31 73r27 77m5
+16U13*Mika_Test_Point 16>29 2|82b11 3|8b11 11l5 11t20
+16i29 Test_number{integer} 2|82b27 3|8b27
+X 2 array_date.adb
+3V10 is_leap{boolean} 3b10 3>18 6l5 6t12 21r8
+3i18 y{1|3I8} 5r12 5r28 5r47
+8U11 tomorrow 8b11 8>20 8<37 34l5 34t13
+8r20 date{1|6R8} 10r16 11r6 14r35 16r7 16r28 19r23 20r10 20r28 27r10 27r28
+. 27r46 28r6 28r25 28r45 28r65 28r85 30r37 32r22
+8r37 next_date{1|6R8} 10m3 12m5 14m5 17m5 18m5 19m5 21r16 22m7 24m7 25m7
+. 29m5 30m5 32m5
+36V10 preceeds{boolean} 36b10 36>19 36>23 56l5 56t13 64r6 73r18
+36r19 d1{1|6R8} 40r6 42r9 44r9 46r9 48r9 50r9
+36r23 d2{1|6R8} 40r16 42r19 44r20 46r20 48r18 50r18
+38b3 p{boolean} 41m5 43m5 45m5 47m5 49m5 51m5 53m5 55r10
+59i3 place{1|13I8} 65m5 68m7 68r27 69r20 69r33 70r10 73r40 77r7
+60r3 current{1|6R8} 66m5 73r49 77r17
+61b3 found{boolean} 71m9 73m9 75r17
+63i5 firstunsorted<short_short_integer> 64r17 64r46 65r14 66r18
+

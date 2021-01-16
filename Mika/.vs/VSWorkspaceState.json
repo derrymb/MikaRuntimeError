@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\newParsing",
+    "\\newParsing\\ada_parser",
+    "\\newParsing\\common source",
+    "\\newParsing\\ourxref",
+    "\\newParsing\\win_flex_bison-2.5.23"
+  ],
+  "SelectedNode": "\\newParsing\\ourxref\\lex.yy.c",
+  "PreviewInSolutionExplorer": false
+}

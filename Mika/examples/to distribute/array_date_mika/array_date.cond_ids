@@ -1,0 +1,76 @@
+%LIMITATIONS OF THE PARSING PHASE:
+%    'atomic conditions not within a decision or a branch are not labeled'
+%    in other words they are not considered as conditions at the moment
+%    e.g. x := A  where A is a Boolean; or x := f(y,z); where f returns a Boolean
+%OTHER REMARKS:
+%    Redundancy could be greatly reduced in this file!!
+%    file names could be referenced once and for all
+cond(1, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 5, 20).
+cond(2, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 5, 38).
+gate(1, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 5, 24).
+cond(3, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 5, 57).
+gate(2, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 5, 44).
+deci(1, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 5, 3).
+cond(4, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 11, 16).
+bran(1, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 11, 5).
+deci(2, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 11, 5).
+cond(5, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 16, 18).
+cond(6, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 16, 37).
+gate(3, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 16, 24).
+bran(2, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 16, 5).
+deci(3, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 16, 5).
+cond(7, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 20, 19).
+cond(8, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 20, 39).
+gate(4, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 20, 24).
+bran(3, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 20, 8).
+deci(4, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 20, 8).
+bran(4, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 21, 7).
+deci(5, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 21, 7).
+cond(9, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 21, 7).
+cond(10, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 27, 19).
+cond(11, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 27, 37).
+cond(12, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 27, 57).
+gate(5, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 27, 42).
+gate(6, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 27, 24).
+cond(13, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 28, 15).
+cond(14, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 28, 36).
+cond(15, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 28, 56).
+gate(7, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 28, 42).
+cond(16, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 28, 76).
+gate(8, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 28, 62).
+cond(17, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 28, 96).
+gate(9, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 28, 82).
+gate(10, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 28, 20).
+gate(11, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 27, 64).
+bran(5, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 27, 8).
+deci(6, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 27, 8).
+cond(18, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 40, 14).
+bran(6, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 40, 5).
+deci(7, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 40, 5).
+cond(19, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 42, 17).
+bran(7, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 42, 8).
+deci(8, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 42, 8).
+cond(20, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 44, 18).
+bran(8, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 44, 8).
+deci(9, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 44, 8).
+cond(21, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 46, 18).
+bran(9, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 46, 8).
+deci(10, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 46, 8).
+cond(22, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 48, 16).
+bran(10, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 48, 8).
+deci(11, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 48, 8).
+cond(23, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 50, 16).
+bran(11, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 50, 8).
+deci(12, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 50, 8).
+bran(12, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 63, 4).
+deci(13, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 63, 4).
+cond(24, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 63, 4).
+bran(13, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 64, 5).
+deci(14, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 64, 5).
+cond(25, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 64, 5).
+cond(26, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 70, 16).
+bran(14, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 70, 9).
+deci(15, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 70, 9).
+bran(15, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 75, 16).
+deci(16, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 75, 16).
+cond(27, 'array_date', 'array_date', '.adb', 'C:\Mika\examples\to distribute', 75, 16).
