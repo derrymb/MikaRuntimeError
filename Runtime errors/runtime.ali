@@ -1,0 +1,23 @@
+V "GNAT Lib v2010"
+P ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+U runtime%b		runtime.adb		ddfaed22 NE OO PK
+
+U runtime%s		runtime.ads		a69cf4e4 EE NE OO PK
+
+D runtime.ads		20201113152536 a69cf4e4
+D runtime.adb		20201123181808 7b6619c6
+D system.ads		20100603062800 0e6ea6c5
+X 1 runtime.ads
+1K9*Runtime 4l5 4e12 2|1b14 21l5 21t12
+2U14*Error 2|15b15 20l9 20t14
+3U14*DivisionError 3=28 3=32 2|2b15 13l9 13t22 19r9
+3i28 A{integer} 2|2b30 6r12 10r23 12m9
+3i32 B{integer} 2|2b34 9r12 10r27
+X 2 runtime.adb
+3i9 X{integer} 7r22 10m13 12r19
+4i9 Y{integer} 7m13 12r23
+16i9 A{integer} 19m23
+17i9 B{integer} 19m26
+

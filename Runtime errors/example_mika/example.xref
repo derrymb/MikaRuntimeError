@@ -1,0 +1,32 @@
+
+Example  
+  Decl:  example.ads    1:9
+  Ref:  example.ads  4:5    4:12
+          example.adb    1:14    21:5    21:12
+Bar procedure
+  Decl:  example.ads    2:14
+  Ref:   example.adb    15:15    20:9    20:12
+Foo procedure
+  Decl:  example.ads    3:14
+  Ref:  example.ads  3:18    3:22
+          example.adb    2:15    13:9    13:12    19:9
+A  
+  Decl:  example.ads    3:18
+  Ref:   example.adb    2:20    6:12    10:23    12:9
+B  
+  Decl:  example.ads    3:22
+  Ref:   example.adb    2:24    9:12    10:27
+X  
+  Decl:  example.adb    3:9
+  Ref:  example.adb  7:22    10:13    12:21
+Y  
+  Decl:  example.adb    4:9
+  Ref:  example.adb  7:13    12:25
+A  
+  Decl:  example.adb    16:9
+  Ref:  example.adb  19:13
+B  
+  Decl:  example.adb    17:9
+
+
+  Ref:  example.adb  19:16
