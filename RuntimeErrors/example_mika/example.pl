@@ -171,7 +171,7 @@ stmts([
               assign(X_369, 2 * (A_367 + B_368))
                    ]))], 
               else(stmts([]))),
-              assign(A_367, 100 / rune(1, (X_369 - Y_370))))
+              assign(A_367, 100 / rune(1, (X_369 - Y_370) = 0, (X_369 - Y_370)))
       ]),
   no_exceptions)
 
@@ -570,9 +570,9 @@ a(Wide_wide_character_273, 'standard.ads:wide_wide_character'),
 a(Wide_wide_string_357, 'standard.ads:wide_wide_string')
 ])
 ]).
-orig_dir('C:/Ada test code/Runtime errors/').
+orig_dir('C:/Users/derry/Documents/GitHub/MikaRuntimeError/RuntimeErrors/').
 install_dir('C:/Users/derry/AppData/Roaming/Midoan/Mika/bin/').
-target_dir('C:/Ada test code/Runtime errors/example_mika/').
+target_dir('C:/Users/derry/Documents/GitHub/MikaRuntimeError/RuntimeErrors/example_mika/').
 %LIMITATIONS OF THE PARSING PHASE:
 %    'atomic conditions not within a decision or a branch are not labeled'
 %    in other words they are not considered as conditions at the moment
@@ -580,10 +580,10 @@ target_dir('C:/Ada test code/Runtime errors/example_mika/').
 %OTHER REMARKS:
 %    Redundancy could be greatly reduced in this file!!
 %    file names could be referenced once and for all
-cond(1, 'example', 'example', '.adb', 'C:\Ada test code\Runtime errors', 6, 14).
-bran(1, 'example', 'example', '.adb', 'C:\Ada test code\Runtime errors', 6, 11).
-deci(1, 'example', 'example', '.adb', 'C:\Ada test code\Runtime errors', 6, 11).
-cond(2, 'example', 'example', '.adb', 'C:\Ada test code\Runtime errors', 9, 14).
-bran(2, 'example', 'example', '.adb', 'C:\Ada test code\Runtime errors', 9, 11).
-deci(2, 'example', 'example', '.adb', 'C:\Ada test code\Runtime errors', 9, 11).
-rune(1, 'example', 'example', '.adb', 'C:\Ada test code\Runtime errors', 12, 28).
+cond(1, 'example', 'example', '.adb', 'C:\Users\derry\Documents\GitHub\MikaRuntimeError\RuntimeErrors', 6, 14).
+bran(1, 'example', 'example', '.adb', 'C:\Users\derry\Documents\GitHub\MikaRuntimeError\RuntimeErrors', 6, 11).
+deci(1, 'example', 'example', '.adb', 'C:\Users\derry\Documents\GitHub\MikaRuntimeError\RuntimeErrors', 6, 11).
+cond(2, 'example', 'example', '.adb', 'C:\Users\derry\Documents\GitHub\MikaRuntimeError\RuntimeErrors', 9, 14).
+bran(2, 'example', 'example', '.adb', 'C:\Users\derry\Documents\GitHub\MikaRuntimeError\RuntimeErrors', 9, 11).
+deci(2, 'example', 'example', '.adb', 'C:\Users\derry\Documents\GitHub\MikaRuntimeError\RuntimeErrors', 9, 11).
+rune(1, 'example', 'example', '.adb', 'C:\Users\derry\Documents\GitHub\MikaRuntimeError\RuntimeErrors', 12, 28).

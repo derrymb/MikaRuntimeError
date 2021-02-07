@@ -2302,7 +2302,7 @@ term    : factor                {$$ = $1;}
                                    }
                                   else if(!strncmp($2, " / ", 3))
                                   {
-                                    $$.id = malloc(SAFETY+strlen(tmp_s)+strlen($1.id)+strlen($2)+strlen($3.id)+10);
+                                    $$.id = malloc(SAFETY+strlen(tmp_s)+strlen($1.id)+strlen($2)+strlen($3.id)+strlen($3.id)+14);
                                     itoa(runtime_nb++, tmp_s, 10);
                                     print_coverage_details(RUNE, tmp_s, current_unit, yylineno, column+1); 
                                     strcpy($$.id, $1.id);
@@ -2311,7 +2311,9 @@ term    : factor                {$$ = $1;}
                                     strcat($$.id, tmp_s);
                                     strcat($$.id, ", ");
                                     strcat($$.id, $3.id);
-                                    strcat($$.id, " = 0))");
+                                    strcat($$.id, " = 0, ");
+                                    strcat($$.id, $3.id);
+                                    strcat($$.id, ")");
                                   }
                                  else
                                    {$$.id = malloc(SAFETY+strlen($1.id)+strlen($2)+strlen($3.id)+1);
