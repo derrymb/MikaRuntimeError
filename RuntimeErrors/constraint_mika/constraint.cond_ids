@@ -1,0 +1,44 @@
+%LIMITATIONS OF THE PARSING PHASE:
+%    'atomic conditions not within a decision or a branch are not labeled'
+%    in other words they are not considered as conditions at the moment
+%    e.g. x := A  where A is a Boolean; or x := f(y,z); where f returns a Boolean
+%OTHER REMARKS:
+%    Redundancy could be greatly reduced in this file!!
+%    file names could be referenced once and for all
+rune(1, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 114, 65).
+rune(2, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 115, 65).
+rune(3, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 116, 65).
+rune(4, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 117, 65).
+rune(5, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 118, 65).
+rune(6, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 119, 65).
+rune(7, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 120, 65).
+rune(8, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 121, 65).
+rune(9, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 122, 65).
+rune(10, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 123, 65).
+rune(11, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 124, 65).
+rune(12, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 125, 65).
+rune(13, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 126, 65).
+rune(14, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 127, 65).
+rune(15, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 128, 65).
+rune(16, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 129, 65).
+rune(17, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 130, 65).
+rune(18, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 131, 65).
+rune(19, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 132, 65).
+rune(20, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 133, 65).
+rune(21, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 134, 65).
+rune(22, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 135, 65).
+rune(23, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 136, 65).
+rune(24, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 137, 65).
+rune(25, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 138, 65).
+rune(26, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 139, 65).
+rune(27, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 140, 65).
+rune(28, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 141, 65).
+rune(29, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 142, 65).
+rune(30, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 143, 65).
+rune(31, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 144, 65).
+rune(32, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 145, 65).
+rune(33, 'standard', 'standard', '.ads', 'C:\Users\derry\AppData\Roaming\Midoan\Mika\bin\..\resources', 146, 65).
+cond(1, 'constraint', 'constraint', '.adb', 'C:\Users\derry\Documents\GitHub\MikaRuntimeError\RuntimeErrors', 14, 11).
+bran(1, 'constraint', 'constraint', '.adb', 'C:\Users\derry\Documents\GitHub\MikaRuntimeError\RuntimeErrors', 14, 7).
+deci(1, 'constraint', 'constraint', '.adb', 'C:\Users\derry\Documents\GitHub\MikaRuntimeError\RuntimeErrors', 14, 7).
+rune(34, 'constraint', 'constraint', '.adb', 'C:\Users\derry\Documents\GitHub\MikaRuntimeError\RuntimeErrors', 17, 15).

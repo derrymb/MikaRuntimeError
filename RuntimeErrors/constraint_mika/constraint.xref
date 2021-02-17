@@ -1,0 +1,30 @@
+
+Constraint procedure
+  Decl:  constraint.ads    1:11
+  Ref:   constraint.adb    2:11    24:5    24:15
+Custom_Int  
+  Decl:  constraint.adb    3:10
+  Ref:  constraint.adb  6:47    8:8    9:8    12:8
+Index  
+  Decl:  constraint.adb    4:10
+  Ref:  constraint.adb  6:37    10:8    11:8
+Custom_Int_Array  
+  Decl:  constraint.adb    6:10
+  Ref:  constraint.adb  7:13
+Array1  
+  Decl:  constraint.adb    7:5
+  Ref:  constraint.adb  17:5
+X  
+  Decl:  constraint.adb    8:5
+Y  
+  Decl:  constraint.adb    9:5
+W  
+  Decl:  constraint.adb    10:5
+R  
+  Decl:  constraint.adb    11:5
+  Ref:  constraint.adb  17:13
+T  
+  Decl:  constraint.adb    12:5
+  Ref:  constraint.adb  15:13
+
+    17:19

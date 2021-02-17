@@ -1898,11 +1898,27 @@ operator_symbol_or_string : string_literal
 /*can be a array access, a function/procedure call, a type conversion, or a subtype_indication with index_contraint */
 /*we will have to differentiate between many things*/
 indexed_component : name '(' value_list ')'
-                    {$$ = malloc(SAFETY+strlen($1)+strlen($3)+14);
+                    {$$ = malloc(SAFETY+strlen(tmp_s)+strlen($1)+strlen($1)+strlen($1)+strlen($3)+strlen($3)+strlen($3)+56);
+                     itoa(runtime_nb++, tmp_s, 10);
+                     print_coverage_details(RUNE, tmp_s, current_unit, yylineno, column+1); 
                      strcpy($$, "indexed(");
                      strcat($$, $1);
                      strcat($$, ", [");
+                     strcat($$, "rune(");
+                     strcat($$, tmp_s);
+                     strcat($$, ", ");
                      strcat($$, $3);
+                     strcat($$, " > ");
+                     strcat($$, "tic(");
+                     strcat($$, $1);
+                     strcat($$, ", last) || ");
+                     strcat($$, $3);
+                     strcat($$, " < ");
+                     strcat($$, "tic(");
+                     strcat($$, $1);
+                     strcat($$, ", first) ,");
+                     strcat($$, $3);
+                     strcat($$, ")");
                      strcat($$, "])");
                      free($1);
                      free($3);

@@ -1,0 +1,52 @@
+V "GNAT Lib v2010"
+M P W=b
+P SS ZX
+R nnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+U numberoverflow%b	numberoverflow.adb	b7976a7b NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W system.img_int%s	s-imgint.adb		s-imgint.ali
+
+D ada.ads		20100603062030 9c7dd3ea
+D a-except.ads		20100603061924 34786013
+D a-finali.ads		20100603061928 bfd2ca79
+D a-filico.ads		20100603061928 4ff02a40
+D a-ioexce.ads		20100603061930 2504b9d2
+D a-stream.ads		20100603061946 34aca5be
+D a-tags.ads		20100603062002 bfa07446
+D a-textio.ads		20100603062004 7065b2f2
+D a-unccon.ads		20100603062010 51e09df2
+D interfac.ads		20100603062246 a69cad5c
+D i-cstrea.ads		20100603062238 e1e064a9
+D numberoverflow.adb	20210217183934 c7f2d889
+D system.ads		20100603062800 0e6ea6c5
+D s-crtl.ads		20100603062404 1dba5d50
+D s-exctab.ads		20100603062408 4b7fd51d
+D s-ficobl.ads		20100603062414 c05c3205
+D s-finimp.ads		20100603062416 90fd9896
+D s-finroo.ads		20100603062418 1408f9d1
+D s-imgint.ads		20100603062430 f77d133c
+D s-parame.ads		20100603062544 6cdeed25
+D s-secsta.ads		20100603062554 d2c357fb
+D s-soflin.ads		20100603062558 61e5c9e8
+D s-stache.ads		20100603062602 481f9e9d
+D s-stalib.ads		20100603062604 9cbc334a
+D s-stoele.ads		20100603062606 a4d57c26
+D s-stoele.adb		20100603062606 d9d7e80e
+D s-stratt.ads		20100603062608 fef7c1da
+D s-traent.ads		20100603062648 a66ef260
+D s-unstyp.ads		20100603062650 c0f9fae5
+D s-wchcon.ads		20100603062708 30c48dc1
+X 1 ada.ads
+16K9*Ada 19e8 12|1r6 1r23
+X 8 a-textio.ads
+52K13*Text_IO 475e16 12|1w10 1r27
+267U14*Put_Line 12|9r5
+X 12 numberoverflow.adb
+2U11*numberOverflow 2b11 10l5 10t19
+3I10 Custom_Int<integer> 4r8 5r8 6r8 9r14
+4i5 X{3I10} 8r11
+5i5 Y{3I10} 8m5 9r31
+6i5 T{3I10} 8r20
+

@@ -1,0 +1,15 @@
+V "GNAT Lib v2010"
+P NO ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnn
+
+U runex.mika_test_point%b  runex-mika_test_point.adb  4ff27457 OO
+W runex%s		runex.adb		runex.ali
+
+D runex.ads		20210216143302 aa2230c6
+D runex.adb		20210216143226 0762bbd4
+D runex-mika_test_point.adb  20210216143314 4ff27457 runex.mika_test_point
+X 1 runex.ads
+1K9*runex 3e10 2|1b14 43l5 43t10
+2U13*Mika_Test_Point 3|2b11 5l5 5t20
+2i29 Test_number{integer} 3|2b27
+
