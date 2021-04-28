@@ -1,5 +1,4 @@
 package body runex is
-
 function firstCheckCFG(A, B : Integer) return Integer is
   AX, BX: Integer;
   X : Integer;
@@ -39,5 +38,6 @@ end noTrueRune;
 
 
 procedure Mika_Test_Point(Test_number : in Integer) is separate;
+
 
 end runex;

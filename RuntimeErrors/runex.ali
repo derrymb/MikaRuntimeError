@@ -1,4 +1,5 @@
 V "GNAT Lib v2010"
+A -gnat05
 P ZX
 R nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
@@ -7,24 +8,24 @@ U runex%b		runex.adb		e2b2ff45 NE OO PK IL
 U runex%s		runex.ads		aa2230c6 EE NE OO PK IL
 
 D runex.ads		20210216143302 aa2230c6
-D runex.adb		20210216143226 0762bbd4
+D runex.adb		20210304223950 0762bbd4
 D runex-mika_test_point.adb  20210216143314 4ff27457 runex.mika_test_point
 D system.ads		20100603062800 0e6ea6c5
 X 1 runex.ads
-1K9*runex 3l5 3e10 2|1b14 43l5 43t10
-2U13*Mika_Test_Point 2>29 2|41b11 3|2b11 5l5 5t20
-2i29 Test_number{integer} 2|41b27 3|2b27
+1K9*runex 3l5 3e10 2|1b14 42l5 42t10
+2U13*Mika_Test_Point 2>29 2|40b11 3|2b11 5l5 5t20
+2i29 Test_number{integer} 2|40b27 3|2b27
 X 2 runex.adb
-3V10 firstCheckCFG{integer} 3b10 3>24 3>27 23l5 23t18
-3i24 A{integer} 7r9 13r7 16r13 18r13 20r18
-3i27 B{integer} 8r9 13r11
-4i3 AX{integer} 7m3 9r7
-4i7 BX{integer} 8m3 10m10 10r16 11m10 11r16
-5i3 X{integer} 15m5 16m5 17m5 18m5 20m10 22r10
-25U11 noBranch 25b11 25>20 25<35 29l5 29t13
-25i20 A{integer} 27r8
-25i35 X{integer} 27m3 28m3 28r12
-31U11 noTrueRune 31b11 31>22 31<37 37l5 37t15
-31i22 A{integer} 33r8
-31i37 X{integer} 33m3 34r7 34m19 35m8 35r17
+2V10 firstCheckCFG{integer} 2b10 2>24 2>27 22l5 22t18
+2i24 A{integer} 6r9 12r7 15r13 17r13 19r18
+2i27 B{integer} 7r9 12r11
+3i3 AX{integer} 6m3 8r7
+3i7 BX{integer} 7m3 9m10 9r16 10m10 10r16
+4i3 X{integer} 14m5 15m5 16m5 17m5 19m10 21r10
+24U11 noBranch 24b11 24>20 24<35 28l5 28t13
+24i20 A{integer} 26r8
+24i35 X{integer} 26m3 27m3 27r12
+30U11 noTrueRune 30b11 30>22 30<37 36l5 36t15
+30i22 A{integer} 32r8
+30i37 X{integer} 32m3 33r7 33m19 34m8 34r17
 

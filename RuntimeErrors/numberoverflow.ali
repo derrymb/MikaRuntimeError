@@ -1,9 +1,10 @@
 V "GNAT Lib v2010"
 M P W=b
+A -gnat05
 P SS ZX
 R nnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-U numberoverflow%b	numberoverflow.adb	b7976a7b NE OO SU
+U numberoverflow%b	numberoverflow.adb	f82a4fc8 NE OO SU
 W ada%s			ada.ads			ada.ali
 W ada.text_io%s		a-textio.adb		a-textio.ali
 W system.img_int%s	s-imgint.adb		s-imgint.ali
@@ -19,7 +20,7 @@ D a-textio.ads		20100603062004 7065b2f2
 D a-unccon.ads		20100603062010 51e09df2
 D interfac.ads		20100603062246 a69cad5c
 D i-cstrea.ads		20100603062238 e1e064a9
-D numberoverflow.adb	20210217183934 c7f2d889
+D numberoverflow.adb	20210217184218 884ffd3a
 D system.ads		20100603062800 0e6ea6c5
 D s-crtl.ads		20100603062404 1dba5d50
 D s-exctab.ads		20100603062408 4b7fd51d
@@ -42,11 +43,12 @@ X 1 ada.ads
 16K9*Ada 19e8 12|1r6 1r23
 X 8 a-textio.ads
 52K13*Text_IO 475e16 12|1w10 1r27
-267U14*Put_Line 12|9r5
+267U14*Put_Line 12|10r5
 X 12 numberoverflow.adb
-2U11*numberOverflow 2b11 10l5 10t19
-3I10 Custom_Int<integer> 4r8 5r8 6r8 9r14
-4i5 X{3I10} 8r11
-5i5 Y{3I10} 8m5 9r31
-6i5 T{3I10} 8r20
+2U11*numberOverflow 2b11 11l5 11t19
+3I10 Custom_Int<integer> 4r8 5r8 6r8 7r8 10r14
+4i5 X{3I10} 9r11
+5i5 Y{3I10} 9m5 10r31
+6i5 Z{3I10} 9r15
+7i5 T{3I10} 9r20
 

@@ -9,6 +9,7 @@ package body Example is
         if B = 0  then
             X := 2 * (A + B);
         end if;
+        SecretMikaCall(Y = 4 and X = 2);
         A := 100 / (X - Y); 
     end Foo;
 
@@ -18,4 +19,9 @@ package body Example is
     begin
         Foo(A, B);
     end Bar;
+
+    procedure SecretMikaCall(E : in Boolean) is
+    begin
+    end SecretMikaCall;
+    
 end Example;

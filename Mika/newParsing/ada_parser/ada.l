@@ -163,6 +163,7 @@ BASED_LITERAL           {BASE}#{BASED_INTEGER}(\.{BASED_INTEGER})?#{EXPONENT}?
                              }
 <REF>":"                     { count(); return(REF_COLON); }
 <REF>[ \t\n\f]               { count(); }
+<REF>--#MIKA.*               { count(); }
 <REF>--.*                    { count(); } //added 08/05/09 to allow comments in our foo.xref file
 <REF>.                       { count();
                                fprintf(stdout, "REF: Illegal character:%c: on line %d, column %d\n",*yytext, yylineno, column);
@@ -358,6 +359,7 @@ BASED_LITERAL           {BASE}#{BASED_INTEGER}(\.{BASED_INTEGER})?#{EXPONENT}?
                                BEGIN(ADA);
                                return(numeric_literal);
                              }
+<ADA,AA>--#MIKA.*             {count(); BEGIN(ADA);}
 <ADA,AA>--.*                  { // 13/06/07 was <ADA>--.*\n but then a file could not end with a comment...
                                 count(); 
                                 BEGIN(ADA);

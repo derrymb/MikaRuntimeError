@@ -1,0 +1,8 @@
+
+*.exe
+*.ali
+*.o
+*.exe
+RuntimeErrors/*.exe
+RuntimeErrors/*.ali
+RuntimeErrors/*.o

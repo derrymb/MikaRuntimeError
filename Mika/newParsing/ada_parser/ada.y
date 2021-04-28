@@ -97,7 +97,8 @@ char type[20];  //to record the type of packages put onto the stack (subunit or 
 char not_cross_referenced_operator[256];
 
 int condition_nb = 1;   //counter for the number of conditions
-int gate_nb = 1;        //counter for individual gate (i.e. boolean operators : and, or, xor, not and_then, or_else, not)
+int gate_nb = 1;        //counter for individual gate 
+                        //(i.e. boolean operators : and, or, xor, not and_then, or_else, not)
 int decision_nb = 1;    //counter for the number of decisions
 int branch_nb = 1;      //counter for the number of branches
 int runtime_nb = 1;     //counter for the number of runtime error checks

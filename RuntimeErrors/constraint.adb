@@ -1,4 +1,8 @@
---with Ada.Text_IO; use Ada.Text_IO;
+-- procedure SecretMikaCall(E : in Boolean) is
+-- begin
+-- end
+with Ada.Text_IO; use Ada.Text_IO;
+
 procedure Constraint is
     type Custom_Int is new Integer range 0 .. 50;
     type Index is range 1 .. 10;
@@ -13,10 +17,11 @@ begin
     if 10 /= 0 then
             T := 10;
         end if;
+    -- SecretMikaCall(Y < 50);
     Array1 (R) := T;
 end Constraint;
     --for I in Index loop
-      --  Put_Line(Custom_Int'Image (Array1(I)));
+    --  Put_Line(Custom_Int'Image (Array1(I)));
     --end loop;
     --Put_Line("Array1'First = " & Index'Image (Array1'First) & " Array1'Last = " & Index'Image (Array1'Last));
     --Put_Line("Next we will attempt to enter 5 into Array(10) which is outside of the range of the array");
